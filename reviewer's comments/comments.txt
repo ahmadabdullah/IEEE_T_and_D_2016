@@ -1,0 +1,14 @@
+Recommended Revisions:
+Reviewer 1:
+Comments:       If there were more mathematical formulas, this paper would be perfect.
+
+Reviewer 2:
+Comments:       1.      The author do not describe the used lightning type that be estimated in the study; thus, this reviewer do not understand that the proposed approach is only useful for a certain of lightning or any types of lightning.
+2.      Equations for DWT method is suggested to be included in section II for replacing the description of DWT method.
+3.      In your results and conclusions, this reviewer though that the author is excessive to emphasize the shortcoming of the study. Conversely, the more positive findings should be discussed.
+4.      Several typos are presented in the paper, for example, since wave in section II 4th paragraph. It is suggested to include the units in all figures. In Section III 1st paragraph, Fig. 2 should change to Fig. 3.
+
+Sincerely,
+
+Committee: Track Transmission and Distribution
+Gary Chang
